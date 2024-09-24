@@ -24,13 +24,13 @@ This got nothing to do with your coding or writing skills. Hence everyone can pa
 
 
 **Simple Programming Challenges**
-- **[Simple Calculator](challenges/Coding/Calculator/README.md)**
-- **[Temperature Converter](challenges/Coding/TemperatureConverter/README.md)**
-- **[Simple Interest Calculator](challenges/Coding/InterestCalculator/README.md)**
-- **[Check if Number is Palindrome or not](challenges/Coding/PalindromeNumber/README.md)**
-- **[Factorial of a Number](challenges/Coding/Factorial/README.md)**
-- **[Find the Largest Number](challenges/Coding/LargestNumber/README.md)**
-- **[Custom Code Challenge](challenges/Coding/)**
+- **[Simple Calculator](challenges/coding/Calculator/calculator.md)**
+- **[Temperature Converter](challenges/coding/TemperatureConverter/tempConverter.md)**
+- **[Simple Interest Calculator](challenges/coding/InterestCalculator/interestCalc.md)**
+- **[Check if Number is Palindrome or not](challenges/coding/PalindromeNumber/palindrome.md)**
+- **[Factorial of a Number](challenges/coding/Factorial/factorial.md)**
+- **[Find the Largest Number](challenges/coding/LargestNumber/largestNum.md)**
+- **[Custom Code Challenge](challenges/coding/CustomCode/customCode.md)**
 
 **Web Development Challenges**
 - **[Contact Form](challenges/)**
