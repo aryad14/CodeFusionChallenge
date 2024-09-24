@@ -33,14 +33,14 @@ This got nothing to do with your coding or writing skills. Hence everyone can pa
 - **[Custom Code Challenge](challenges/coding/CustomCode/customCode.md)**
 
 **Web Development Challenges**
-- **[Contact Form](challenges/)**
-- **[Simple Landing Page](challenges/)**
-- **[Portfolio Website](challenges/)**
-- **[Responsive Navigation Bar](challenges/)**
-- **[Create a Responsive Image Gallery](challenges/)**
-- **[Build a Responsive Image Slider (using CSS only)](challenges/)**
-- **[Custom Web Design](challenges/)**
+- **[Contact Form](challenges/webDev/ContactForm/contactForm.md)**
+- **[Simple Landing Page](challenges/webDev/LandingPage/landingPage.md)**
+- **[Portfolio Website](challenges/webDev/Portfolio/portfolio.md)**
+- **[Responsive Navigation Bar](challenges/webDev/ReponsiveNavbar/reponsiveNav.md)**
+- **[Responsive Image Gallery](challenges/webDev/ResponsiveImageGallery/responsiveGallery.md)**
+- **[Responsive Image Slider](challenges/webDev/ImageSlider/imgSlider.md)**
+- **[Custom Web Design](challenges/webDev/CustomWeb/custom.md)**
 
 **No Code Challenges**
-- **[Blog Writing](challenges/)**
-- **[Create a Tutorial](challenges/)**
+- **[Blog Writing](challenges/noCode/BlogWriting/blogWriting.md)**
+- **[Create a Tutorial](challenges/noCode/Tutorial/tutorial.md)**
