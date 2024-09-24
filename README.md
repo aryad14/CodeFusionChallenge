@@ -1,37 +1,27 @@
 ## 🎯 Welcome to CodeFusion Challenge!
-CodeConquest 2024 is an exciting coding competition for second and third year students, where you will not only showcase your programming skills but also contribute to GitHub in meaningful ways. Whether you love coding or prefer contributing with documentation, bug reports, or code reviews, this competition has something for everyone!
+An exciting coding competition where you will not only showcase your programming skills but also contribute to GitHub in meaningful ways. 
+Whether you love coding or prefer contributing with documentation, bug reports, or code reviews, this competition has something for you!
 Take this challenge to upskill your Git and GitHub skills!!💫
 
----
+## 🤔 What this Repo has?
+It contains challenges which are coding and non-code based. The motive creating this challenge is to get you started with GitHub Open Source Contribution.
+This got nothing to do with your coding or writing skills. Hence everyone can participate in this Challenge
 
 ## 🚀 How to Participate
-1. **Fork this repository:** Create a copy of this repository in your GitHub account.
+1. Fork this repository
 
-2. **Clone the repository:** Download the forked repository to your local machine.
+2. Clone the repository
 
-```bash
-git clone https://github.com/aryad14/CodeFusion.git
-```
+3. Choose a Challenge
 
-3. **Choose a Challenge:** Head over to the Challenges/ folder to pick a task you want to work on.
+4. Submit Your Solution
 
-4. **Submit Your Solution:** Write your solution and place it in your folder under Submissions/YourName/ChallengeName/.
-For no-code contributions, refer to the No-Code Contributions section.
+5. Push and Submit a Pull Request:
 
-5. **Push and Submit a Pull Request:** Push your changes to your forked repository and open a pull request (PR) to this repository.
-
-```bash
-git add .
-git commit -m "Completed Challenge X"
-git push origin main
-```
-
-Once pushed, open a PR by navigating to the original repository and clicking Compare & Pull Request.
-
----
+**Read [CONTRIBUTING.MD](/CONTRIBUTING.md) file for more details on contributing to this challenge**
 
 ## 🏆 Challenges
-Each challenge is designed to test your algorithmic and problem-solving skills. Choose from a variety of tasks, ranging from basic to intermediate.
+
 
 **Simple Programming Challenges**
 - **[Simple Calculator](challenges/Coding/Calculator/README.md)**
@@ -40,6 +30,7 @@ Each challenge is designed to test your algorithmic and problem-solving skills. 
 - **[Check if Number is Palindrome or not](challenges/Coding/PalindromeNumber/README.md)**
 - **[Factorial of a Number](challenges/Coding/Factorial/README.md)**
 - **[Find the Largest Number](challenges/Coding/LargestNumber/README.md)**
+- **[Custom Code Challenge](challenges/Coding/)**
 
 **Web Development Challenges**
 - **[Contact Form](challenges/)**
@@ -48,15 +39,8 @@ Each challenge is designed to test your algorithmic and problem-solving skills. 
 - **[Responsive Navigation Bar](challenges/)**
 - **[Create a Responsive Image Gallery](challenges/)**
 - **[Build a Responsive Image Slider (using CSS only)](challenges/)**
+- **[Custom Web Design](challenges/)**
 
 **No Code Challenges**
 - **[Blog Writing](challenges/)**
 - **[Create a Tutorial](challenges/)**
-
-### ✨ No-Code Contributions
-Want to participate without writing code? You can contribute in many meaningful ways:
-
-**Report Bugs:** Test challenges, identify bugs, and report them in the Issues/ section.
-**Write Documentation:** Improve the README.md, or write more detailed instructions in the Documentation/ folder.
-**Review Code:** Help your peers by reviewing their pull requests and providing feedback.
-**Suggest Test Cases:** Contribute complex test cases by adding them to the test_cases.md in any challenge folder.
