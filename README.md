@@ -1,5 +1,5 @@
 ## 🎯 Welcome to CodeFusion Challenge!
-An exciting coding competition where you will not only showcase your programming skills but also contribute to GitHub in meaningful ways. 
+An exciting coding competition where you will not only showcase your programming skills but also contribute to open source in meaningful ways. 
 Whether you love coding or prefer contributing with documentation, bug reports, or code reviews, this competition has something for you!
 Take this challenge to upskill your Git and GitHub skills!!💫
 
