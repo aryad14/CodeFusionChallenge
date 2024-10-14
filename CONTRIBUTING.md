@@ -21,17 +21,30 @@ Thank you for considering contributing to CodeFusion! We welcome contributions f
 
 6. **Add a README to your Folder:** Create a README.md file in your folder which includes your information (Name, Email, GitHub Profile, LinkedIn, etc.)
 
-7. **Commit your changes**: Add a relevant message for your commit
+7. **Stage your changes**: Add your files to staging area
+   ```bash
+   git add file_name
+   ```
+   To add specific files to staging area
+   
+   OR
+   
+   ```bash
+   git add .
+   ```
+   To add all files to staging area
+
+9. **Commit your changes**: Add a relevant message for your commit
    ```bash
    git commit -m "your_message"
    ```
 
-8. **Push the changes back to your Forked Repository**
+10. **Push the changes back to your Forked Repository**
    ```bash
    git push origin branch_name
    ```
 
-9. **Open a PR (Pull Request)**: Go to the original repository and click on "Open Pull Request" button
+11. **Open a PR (Pull Request)**: Go to the original repository and click on "Open Pull Request" button
 
 ## Thank You!
 Keep Contributing and Happy Coding! :)
