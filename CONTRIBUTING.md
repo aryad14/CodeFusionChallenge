@@ -2,13 +2,13 @@
 Thank you for considering contributing to CodeFusion! We welcome contributions from everyone. This document outlines the guidelines for contributing to this project.
 
 ## 🤔 How to Contribute
-1. **Select a Challenge** you like from the [main readme file](/README.md#-challenges)
+1. **Select a Challenge**: Go through the [main readme file](/README.md#-challenges) which contains the list of challenges and choose one as per your choice.
 
-2. **Fork the Repository**: Click the "Fork" button in the upper right corner of the repository page to create a personal copy of the repository.
+2. **Fork the Repository**: After choosing a challenge, Click the "Fork" button in the upper right corner of the repository page to create a personal copy of the repository.
 
 3. **Clone Your Fork**: Clone your forked repository to your local machine:
    ```bash
-   git clone https://github.com/aryad14/codefusion.git
+   git clone https://github.com/aryad14/CodeFusionChallenge.git
    ```
 
 
@@ -17,19 +17,21 @@ Thank you for considering contributing to CodeFusion! We welcome contributions f
    git checkout -b branch_name
    ```
 
-5. **Add your Folder**: In the Submissions folder given, Create a folder with your name
+5. **Add your Folder**: In the Submissions directory given, Create a folder with your GitHub Username
 
-6. **Commit your changes**: Add a relevant message for your commit
+6. **Add a README to your Folder:** Create a README.md file in your folder which includes your information (Name, Email, GitHub Profile, LinkedIn, etc.)
+
+7. **Commit your changes**: Add a relevant message for your commit
    ```bash
    git commit -m "your_message"
    ```
 
-7. **Push the changes back to your Forked Repository**
+8. **Push the changes back to your Forked Repository**
    ```bash
    git push origin branch_name
    ```
 
-8. **Open a PR (Pull Request)**: Go to the original repository and click on "Open Pull Request" button
+9. **Open a PR (Pull Request)**: Go to the original repository and click on "Open Pull Request" button
 
 ## Thank You!
 Keep Contributing and Happy Coding! :)
